@@ -1,0 +1,9 @@
+SIM卡短信UCS2编码和解码。
+windows下c文件使用cmake编译时:
+mkdir build
+cd build
+cmake .. -G "Unix Makefiles"
+linux系统使用cmake编译时:
+mkdir build
+cd build 
+cmake ..
